@@ -1,0 +1,23 @@
+--------------------------------------------------
+| ziekte-genererende-zorg-instellingen-nederland |
+--------------------------------------------------
+
+'boumanggz/anteszorg'
+
+
+# hepatitis b
+https://en.wikipedia.org/wiki/Hepatitis_B
+
+# opiod use disorder
+https://en.wikipedia.org/wiki/Opioid_use_disorder
+
+# fentanyl
+https://en.wikipedia.org/wiki/Fentanyl
+
+# obesitas
+https://nl.wikipedia.org/wiki/Obesitas
+
+# neuroleptic maligrant syndrome
+https://en.wikipedia.org/wiki/Neuroleptic_malignant_syndrome
+
+1991-2021
